@@ -20,7 +20,6 @@
     "webpack-cli": "^3.3.10"
   },
   "dependencies": {
-    "@material/react-button": "^0.15.0",
     "office-ui-fabric-react": "^7.98.3",
     "prop-types": "^15.7.2",
     "react": "^16.12.0"
